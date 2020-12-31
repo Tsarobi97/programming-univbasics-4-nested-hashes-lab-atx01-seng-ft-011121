@@ -87,7 +87,7 @@ def adding_matz
       }
     }
 
-adding_matz[:yukihiro_matsumoto[:known_for][:languages] = 
+adding_matz[:yukihiro_matsumoto][:known_for][:languages] = 
   
   
 

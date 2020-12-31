@@ -87,7 +87,7 @@ def adding_matz
       }
     }
 
-adding_matz = :yukihiro_matsumoto{
+adding_matz = :yukihiro_matsumoto {
   :known_for => "Ruby",
   :languages => ["LISP", "C"]
   }

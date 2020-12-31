@@ -94,7 +94,7 @@ yukihiro_matsumoto = {
  :languages => ["LISP", "C"]
 }
 
-programmer_hash
+programmer_hash[:adding_matz] <<
 
 end
 

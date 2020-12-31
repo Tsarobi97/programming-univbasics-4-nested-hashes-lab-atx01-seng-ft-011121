@@ -80,6 +80,8 @@ adding_matz = :yukihiro_matsumoto{
   :known_for => "Ruby",
   :languages => ["LISP", "C"]
   }
+  
+  adding_matz.merge
 
 
 

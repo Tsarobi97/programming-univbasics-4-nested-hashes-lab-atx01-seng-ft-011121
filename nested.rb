@@ -71,7 +71,6 @@ def adding_matz
 # }
 # return the entire updated hash
 
-adding_matz[:yukihiro_matsumoto] 
 
 	programmer_hash = 
  		{

@@ -87,7 +87,7 @@ def adding_matz
       }
     }
  
-  programmer_hash[]
+  programmer_hash[:updated_hash]
   
  updated_hash = {:known_for => "Ruby",
  :languages => ["LISP", "C"]

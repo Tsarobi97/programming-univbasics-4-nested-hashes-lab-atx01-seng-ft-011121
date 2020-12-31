@@ -71,6 +71,17 @@ def adding_matz
 # }
 # return the entire updated hash
 
+hash = { }
+hash[:a] = 'a'
+hash[:a]
+# => 'a'
+
+adding_matz = {}
+adding_matz[:yukihiro_matsumoto] = ""
+
+
+
+
 	programmer_hash = 
  		{
       :grace_hopper => {

@@ -76,7 +76,10 @@ hash[:a] = 'a'
 hash[:a]
 # => 'a'
 
-
+adding_matz = :yukihiro_matsumoto{
+  :known_for => "Ruby",
+  :languages => ["LISP", "C"]
+  }
 
 
 

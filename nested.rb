@@ -92,7 +92,7 @@ adding_matz = :yukihiro_matsumoto{
   :languages => ["LISP", "C"]
   }
   
-  adding_matz.merge!
+  
 
 
 
